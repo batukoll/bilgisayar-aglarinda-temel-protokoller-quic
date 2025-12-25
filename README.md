@@ -24,21 +24,6 @@ deneysel olarak incelenmiştir.
 
 ---
 
-## 🧩 Proje Dizin Yapısı
-├──  quic-test/ # Ana dizin
-├── venv/ # Python sanal ortamı
-├── kodlar/
-│ ├── www # Web sitesinin yayınlandığı yer
-│ ├── http3_sunucu_yorumlu.py # HTTP/3 (QUIC) sunucu
-│ ├── http3_istemci_yorumlu.py # HTTP/3 (QUIC) istemci
-│ ├── server.crt # TLS sertifikası
-│ ├── server.key # TLS özel anahtarı
-│ ├── requirements.txt # Python kütüphane gereksinimleri
-└── README.md
-
-
----
-
 ## ⚙️ Gereksinimler
 
 - Ubuntu Linux (Ubuntu 22.04 üzerinde test edilmiştir)
